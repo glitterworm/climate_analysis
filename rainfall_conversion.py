@@ -5,3 +5,4 @@ def thing2thing(x):
     return x*x
 
 #TODO try not to mess up everything and delete all the things
+#goodbye
